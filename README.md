@@ -1,7 +1,7 @@
 Amigo Secreto - Sorteio Aleatório 
 
 Descrição
-Este projeto consiste em um código JavaScript que permite aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem será o "amigo secreto".
+Este projeto consiste em um código que permite aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem será o "amigo secreto".
 
 O usuário poderá adicionar nomes por meio de um campo de texto e de um botão "Adicionar". Os nomes serão exibidos em uma lista visível na página. Ao final, um botão "Sortear Amigo" selecionará aleatoriamente um dos nomes da lista e exibirá o resultado na tela.
 
